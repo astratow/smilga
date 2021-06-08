@@ -1,3 +1,5 @@
+// navbar project
+/* https://youtu.be/c5SIG7Ie0dM?t=4557 */
 // classList - shows/gets all classes
 // contains - checks classList for specific class
 // add - add class
