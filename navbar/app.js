@@ -1,4 +1,4 @@
-// navbar project
+// hamburger menu navbar project
 
 
 const navToggle = document.querySelector(".nav-toggle");
