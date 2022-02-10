@@ -1,13 +1,13 @@
-function greetMorning(name){
+function morning(name){
+  return `Good Morning ${name.toUpperCase()}`;
+}
+console.log(morning("artur"));
+function greet(name, callBack){
+
   const myName = "John";
-  console.log(`Good Morning ${name}, my name is ${myName}`);
+  console.log(`${morning("Artur")}, my name is ${myName}`);
+
 }
 
-function greetAfternoon(name){
-  const myName = "John";
-  console.log(`Good Afternoon ${name}, my name is ${myName}`);
-
-}
-
-greetMorning("bobo");
-greetAfternoon("bobo");
+greet("Bobo");
+{}
