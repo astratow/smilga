@@ -1,6 +1,6 @@
-##This is my repository that I made coding along with John Smilga, well known as CodeAddict on YouTube.
-#Color Flipper
-##Functionality
+## This is my repository that I made coding along with John Smilga, well known as CodeAddict on YouTube.
+# Color Flipper
+## Functionality
 This is fun little project that lets change colors with the click of the button.
 
 You can have a simple mode where you choose from built in colors or hex, where color is randomly generated when button is clicked.
@@ -15,5 +15,8 @@ I created an array with all possible chars in hexadecimal color ( 0-9, A-F) and 
 
 and add it to the color number. I used for loop for this task.
 
-[color flipper](/color-flipper/index.html)
+[color flipper](/color-flipper/index.html)|
+[counter](/counter/index.html)|
+[navbar](/navbar/index.html)|
+[review](/review/index.html)|
 
