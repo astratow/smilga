@@ -15,5 +15,8 @@ I created an array with all possible chars in hexadecimal color ( 0-9, A-F) and 
 
 and add it to the color number. I used for loop for this task.
 
-[color flipper](/color-flipper/index.html)
+[color flipper](/color-flipper/index.html)|
+[counter](/counter/index.html)|
+[navbar](/navbar/index.html)|
+[review](/review/index.html)|
 
